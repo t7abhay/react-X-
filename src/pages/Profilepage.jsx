@@ -5,11 +5,6 @@ export default function ProfilePage() {
     <>
       <h1>ProfilePage</h1>
       <h1>ProfilePage</h1>
-      <h1>ProfilePage</h1>
-      <h1>ProfilePage</h1>
-      <h1>ProfilePage</h1>
-      <h1>ProfilePage</h1>
-      <h1>ProfilePage</h1>
     </>
   );
 }
