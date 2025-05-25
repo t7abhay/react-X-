@@ -1,0 +1,5 @@
+tex.te
+
+node_modules
+.vscode
+.env
